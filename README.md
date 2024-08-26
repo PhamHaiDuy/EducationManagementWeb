@@ -1,4 +1,4 @@
-# MockJW02
+#EducationMangementWeb
 
 
-FAMS backend project
+Backend project
